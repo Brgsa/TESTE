@@ -1,0 +1,33 @@
+img{
+  
+	width: 100px;
+  border-radius: 100px;
+}
+
+.fundo{
+	border-block: 10px solid black;
+	border-radius: 40px;
+	line-height: 290px;
+	text-align: center;
+	margin: auto;
+	background: rebeccapurple;
+	width: 199px;
+	height: 200px;
+	
+}
+
+h2{
+	top: -32px;
+	left: 480px;
+	position: absolute;
+	line-height: 120px; 
+}
+
+
+#btn{
+	margin: auto;
+	text-align:center;
+	position: absolute;
+	left: 456px;
+	top: 183px;
+}
